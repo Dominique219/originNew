@@ -12,6 +12,7 @@ public class ThisIsIt {
 
 		System.out.println(Math(1,2,3));
 		System.out.println("Test 1");
+		System.out.println("this is it");
 		
 	}
 }
